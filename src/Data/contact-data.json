@@ -1,0 +1,14 @@
+[
+  {
+    "uid": "0101",
+    "name": "Peter Parker",
+    "position": "Senior Photographer",
+    "emailAddress": "peter@parker.com"
+  },
+  {
+    "uid": "0102",
+    "name": "Bruce Wayne",
+    "position": "Gotham City - Citizen Care Lead",
+    "emailAddress": "bruce@wayne.com"
+  }
+]
